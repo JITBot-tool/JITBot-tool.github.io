@@ -1,7 +1,7 @@
 ---
 name: Chakkrit Tantithamthavorn
-position: 
-image_path: /images/01.png
+position: Monash University
+image_path: /images/kla_square.jpg
 url: http://JITBot-tool.github.io/about
 blurb: 
 ---

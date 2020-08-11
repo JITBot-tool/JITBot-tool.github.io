@@ -1,7 +1,7 @@
 ---
 name: Morakot Choetkiertikul
-position: 
-image_path: /images/user.png
+position: Mahidol University
+image_path: /images/morakot.jpg
 url: http://JITBot-tool.github.io/about
 blurb: 
 ---

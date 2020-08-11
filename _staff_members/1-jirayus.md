@@ -1,7 +1,7 @@
 ---
 name: Jirayus Jiarpakdee
-position: 
-image_path: /images/02.png
+position: Monash University
+image_path: /images/jirayus.jpg
 url: http://JITBot-tool.github.io/about
 blurb: 
 ---

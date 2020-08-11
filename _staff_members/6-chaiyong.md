@@ -1,7 +1,7 @@
 ---
 name: Chaiyong Ragkhitwetsagul
-position: 
-image_path: /images/user.png
+position: Mahidol University
+image_path: /images/chaiyong.jpg
 url: http://JITBot-tool.github.io/about
 blurb: 
 ---
