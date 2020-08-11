@@ -33,6 +33,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/technology/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/category/sales/</loc>
 </url>
 <url>
